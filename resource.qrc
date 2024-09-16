@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagens/cross.jpg</file>
+        <file>imagens/carro.png</file>
+        <file>imagens/carro2.png</file>
+        <file>imagens/carro3.png</file>
+        <file>imagens/carro4.png</file>
+        <file>imagens/semaforoRed.png</file>
+        <file>imagens/semaforoGreen.png</file>
+    </qresource>
+</RCC>
